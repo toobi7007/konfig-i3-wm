@@ -1,0 +1,1 @@
+# konfig-i3-wm
